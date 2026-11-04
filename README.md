@@ -35,3 +35,5 @@ Clone or pull the `main` branch, then deploy `index.html`, `register.html`, `con
 
 ## Registration preview
 See REGISTRATION_HANDOFF.md for the backend connection points. confirmation-preview.html is a clearly labeled success-screen design reference, not a production payment confirmation endpoint.
+
+The registration form now includes an explicitly labeled OTP UI preview (demo code 123456). No OTP messages are sent; Jamil must connect server-side delivery and verification before launch.
